@@ -1,35 +1,34 @@
-<div style="display: flex; align-Items: center; flex-direction: column">
+
+<div>
 
 ![](https://media.giphy.com/media/EU9Uy71hqoXPW/giphy.gif) 
 
 </div>
 
 ## Welcome My profile!!! My name´s Vinicius 
- - 🔭 I’m a developer in front-end 
- - 🌱 I’m currently learning Javascript
+ - 👨‍💻 I’m a developer in front-end 
+ - 📚 I’m currently learning Javascript
  
    
  
 
 <div>
 <br>
-  
 
- 
+
 <br>
 </div>
 
 ##  My Statistics
 <br>
-<div style="display: flex; align-Items: center; flex-direction: column">
+<div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmaier&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=TypeScript,GLSL,Astro,Rust,Go,Python,Shell,Assembly,Objective-C,Scala,Java,Ada&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<br>
-<div style="display: flex; align-Items: center; flex-direction: 
-column">
+ <br>
+<div>
  
 ![](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
 
@@ -56,7 +55,7 @@ column">
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
       
 
-<hr> 
+
 
 ## Contact
 <br>
@@ -72,3 +71,5 @@ column">
 
 
 </div>
+
+    
