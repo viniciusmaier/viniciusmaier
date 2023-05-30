@@ -4,7 +4,7 @@
 
 </div>
 
-## Welcome My profile!!! My name´s Vinicius 
+## Welcome My profile!!! My name's Vinicius 
  - 👨‍💻 I’m a developer in Full-Stack 
  - 📚 I’m currently learning Javascript, Java, PostgreSQL
  
@@ -69,5 +69,3 @@
 
 
 </div>
-
-    
