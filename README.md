@@ -1,13 +1,12 @@
 
-<div>
 
 ![](https://media.giphy.com/media/EU9Uy71hqoXPW/giphy.gif) 
 
 </div>
 
 ## Welcome My profile!!! My name´s Vinicius 
- - 👨‍💻 I’m a developer in front-end 
- - 📚 I’m currently learning Javascript
+ - 👨‍💻 I’m a developer in Full-Stack 
+ - 📚 I’m currently learning Javascript, Java, PostgreSQL
  
    
  
@@ -53,6 +52,8 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
       
 
 
