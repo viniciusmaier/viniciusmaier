@@ -5,8 +5,8 @@
 </div>
 
 ## Welcome My profile!!! My name's Vinicius 
- - 👨‍💻 I’m a developer in Full-Stack 
- - 📚 I’m currently learning Javascript, Java, PostgreSQL
+ - 👨‍💻 I’m a developer in Back-End
+ - 📚 I’m currently learning TypeScript, NodeJS, PostgreSQL
  
    
  
